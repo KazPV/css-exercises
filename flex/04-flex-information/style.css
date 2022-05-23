@@ -8,8 +8,53 @@ img {
 }
 
 .title {
+  display: flex;
+  justify-content: center;
   font-size: 36px;
   font-weight: 900;
+  margin: 0px 0px 32px 0px;
+}
+
+.fruits {
+  display: flex;
+  justify-content: center;
+}
+
+.barberry {
+  display: flex;
+  flex: 0 1 200px;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px 26px 0px 0px;
+}
+
+.chilli {
+  display: flex;
+  flex: 0 1 200px;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px 26px 0px 26px;
+}
+
+.pepper {
+  display: flex;
+  flex: 0 1 200px;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px 26px 0px 26px;
+}
+
+.saffron {
+  display: flex;
+  flex: 0 1 200px;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px 0px 0px 26px;
+}
+
+.text {
+  display: flex;
+  text-align: center;
 }
 
 /* do not edit this footer */

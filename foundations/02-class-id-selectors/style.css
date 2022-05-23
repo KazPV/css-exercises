@@ -1,0 +1,23 @@
+/* style.css */
+
+#i1 {
+    background-color: rgb(254, 44, 84);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}       
+
+.i2 {
+    background-color: rgb(254, 44, 84);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}       
+
+.c1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.c2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}

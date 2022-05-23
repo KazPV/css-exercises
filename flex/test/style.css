@@ -16,8 +16,6 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
-  margin: 4px;
-  padding: 8px;
 }
 
 input {
@@ -35,7 +33,7 @@ ul {
 a {
   text-decoration: none;
   margin: 8px;
-  color: #666;
+  color: black;
 }
 
 .main {
@@ -74,24 +72,22 @@ a {
 .image {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .input {
   display: flex;
   justify-content: center;
-  height: 48px;
-  margin-top: 8px;
+  align-items: center;
 }
 
 .buttons {
   display: flex;
   justify-content: center;
-  margin-top: 8px;
-  margin-bottom: 125px;
+  align-items: center;
 }
 
 .footer {
-  background-color: #eeeeee;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
